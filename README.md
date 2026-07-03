@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Active Directory/Splunk project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system (Splunk). The lab also included Kali Linux as our attacking machine, and Atomic Red Team, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen my understanding of how machines send data to Splunk, also what to look for while investigating.
+The Active Directory/Splunk project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system (Splunk). The lab also included Kali Linux as our attacking machine, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen my understanding of how machines send data to Splunk, also what to look for while investigating.
 
 ### Skills Learned
 
@@ -10,12 +10,10 @@ The Active Directory/Splunk project aimed to establish a controlled environment 
 - Ability to install Splunk and have it up and running with users.
 - Create an Active Directory from scratch with organizational units and users.
 - Installed Splunk forwarder with Sysmon on my user machine.
-- Understanding of Atomic Red Team and what kind of telemetry it sends to the SIEM.
 
 ### Tools Used
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- MITRE ATT&CK framework, such as Atomic Red Team, which provides small, easily executable tests that mimic adversary tactics. This allows organizations to identify vulnerabilities and enhance their defenses.
 - Crowbar, which is a brute-forcing tool in Kali Linux used to crack password-protected services like SSH, VNC, RDP, and openVPN.
 
 ## Screenshots of my work
